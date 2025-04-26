@@ -77,6 +77,9 @@ The race prediction model:
 The model generates three key visualizations:
 
 1. **Feature Importance**: Shows which factors most influence race predictions
+   
+![Image](https://github.com/user-attachments/assets/6273901c-bcad-486f-9517-9ff757ef5d80)
+  
 2. **Driver Skill Impact**: Visualizes the relationship between driver skill and race time
 3. **Team Strength Impact**: Shows how team performance affects race outcomes
 

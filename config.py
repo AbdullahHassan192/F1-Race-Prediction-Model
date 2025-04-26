@@ -1,4 +1,4 @@
-#aconfig
+#config
 TEAM_PERFORMANCE = {
     # quali_adjust --> time adjustment for qualifying (in seoncds)
     # race_score   --> race performance multiplier (1 is perfect)

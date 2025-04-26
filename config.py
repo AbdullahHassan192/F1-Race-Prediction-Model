@@ -4,7 +4,7 @@ TEAM_PERFORMANCE = {
     # race_score   --> race performance multiplier (1 is perfect)
     'Red Bull': {
         'quali_adjust': -0.20,  # 0.20s faster than base
-        'race_score': 0.80      # 17% slower than perfect lap
+        'race_score': 0.80      # 20% slower than perfect lap
     },
     'Ferrari': {
         'quali_adjust': -0.10,

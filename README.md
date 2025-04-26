@@ -28,6 +28,7 @@ The model is currently specifically tuned for the Saudi Arabian Grand Prix but c
 - seaborn
 - fastf1
 - requests
+- an openweathermap api key (get it from [here](https://openweathermap.org/api))
 
 ## Project Structure
 

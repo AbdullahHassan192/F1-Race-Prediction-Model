@@ -97,3 +97,4 @@ For the Saudi Arabian GP 2025, the model predicts qualifying and race results wi
 - Weather prediction relies on a simple API and could be enhanced
 - Driver-specific circuit performance isn't fully accounted for
 - More granular race strategy modeling could improve predictions
+- Rookie drivers from the 2025 season could be included for predictions
